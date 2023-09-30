@@ -1,7 +1,11 @@
+import { Background } from "./Components/UI/Background";
+import { Header } from "./Components/UI/Header";
+
 function CardApp() {
   return (
     <div>
-      <h1 className="font-spaceGrotesk">Faakk asi si que puedo estar</h1>
+      <Header />
+      <Background />
     </div>
   );
 }

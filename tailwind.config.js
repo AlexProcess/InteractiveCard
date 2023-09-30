@@ -17,6 +17,9 @@ export default {
       fontFamily: {
         spaceGrotesk: ["Space Grotesk"],
       },
+      zIndex: {
+        100: "100",
+      },
     },
   },
   plugins: [],
